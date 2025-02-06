@@ -20,7 +20,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Junior` at Information systems engineering in UTN FRC
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=JazminDOnofrio&amp;color=EA4335&amp;style=flat-square)](jazmindonofrio@gmail.com)
+- :email: Feel free to **reach me out** jazmindonofrio@gmail.com
 
 
 <br>
