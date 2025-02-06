@@ -20,7 +20,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `Junior` at Information systems engineering in UTN FRC
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](jazmindonofrio@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=JazminDOnofrio&amp;color=EA4335&amp;style=flat-square)](jazmindonofrio@gmail.com)
 
 
 <br>
@@ -57,7 +57,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/Pycharm-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/Pycharm-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=pink)
 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
