@@ -24,7 +24,8 @@
 
 
 <br>
-
+<br>
+<br>
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
@@ -82,18 +83,3 @@
 
 -----------
 
-Credit: [ElioChiu](https://github.com/ElioChiu)
-
-Last Edited on: 10/7/2023*JazDonofrio/JazDonofrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
